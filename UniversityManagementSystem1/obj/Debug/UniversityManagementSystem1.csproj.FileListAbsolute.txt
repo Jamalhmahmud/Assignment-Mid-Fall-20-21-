@@ -1,0 +1,7 @@
+C:\Users\jhmla\source\repos\UniversityManagementSystem1\UniversityManagementSystem1\bin\Debug\UniversityManagementSystem1.exe.config
+C:\Users\jhmla\source\repos\UniversityManagementSystem1\UniversityManagementSystem1\bin\Debug\UniversityManagementSystem1.exe
+C:\Users\jhmla\source\repos\UniversityManagementSystem1\UniversityManagementSystem1\bin\Debug\UniversityManagementSystem1.pdb
+C:\Users\jhmla\source\repos\UniversityManagementSystem1\UniversityManagementSystem1\obj\Debug\UniversityManagementSystem1.csprojAssemblyReference.cache
+C:\Users\jhmla\source\repos\UniversityManagementSystem1\UniversityManagementSystem1\obj\Debug\UniversityManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\jhmla\source\repos\UniversityManagementSystem1\UniversityManagementSystem1\obj\Debug\UniversityManagementSystem1.exe
+C:\Users\jhmla\source\repos\UniversityManagementSystem1\UniversityManagementSystem1\obj\Debug\UniversityManagementSystem1.pdb
